@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4791",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4791.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4791,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Undershirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earrings"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Very bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Braid violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chews"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4791.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

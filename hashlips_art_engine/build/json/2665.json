@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #2665",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2665.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Scythe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie black"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball cap violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dissatisfied"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2665.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6072",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6072.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6072,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo shirt green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Emotionless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X O"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Braid black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nice"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6072.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

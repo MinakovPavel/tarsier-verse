@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4930",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4930.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4930,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Evening orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blunt cream"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dissatisfied"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4930.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

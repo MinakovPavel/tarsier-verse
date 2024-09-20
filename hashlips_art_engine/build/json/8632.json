@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #8632",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8632.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8632,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Surfboard"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless red"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball cap red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dissatisfied"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8632.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

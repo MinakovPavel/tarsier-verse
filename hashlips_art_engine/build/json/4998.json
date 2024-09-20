@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4998",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4998.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4998,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Evening orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earrings"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lolita red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4998.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7527",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7527.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7527.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7665",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7665.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon green"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Strapless dress"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Mistrust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sidecut blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fire"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7665.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4469",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4469.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4469,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped sleeveless blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Very bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4469.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

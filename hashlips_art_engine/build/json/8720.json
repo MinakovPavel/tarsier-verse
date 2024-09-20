@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #8720",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8720.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8720,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Candy cane"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tattoo 2"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Very bored"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8720.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

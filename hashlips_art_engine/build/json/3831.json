@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3831",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3831.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3831,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bamboo stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt brown"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Mistrust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sticking plaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugly"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3831.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

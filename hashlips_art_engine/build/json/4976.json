@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4976",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4976.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4976,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo shirt violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sharp flower"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Unibrow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drak rainbow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dreadlocks brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sealed"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4976.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

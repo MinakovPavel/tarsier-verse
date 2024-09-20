@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3272",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3272.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Racquet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Evening blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips violet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3272.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

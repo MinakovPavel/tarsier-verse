@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6944",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6944.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6944,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Checkered shirt violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sharp flower"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black eye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Insane grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cool"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6944.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

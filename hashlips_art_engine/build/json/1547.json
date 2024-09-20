@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #1547",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "1547.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 1547,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dalmatian"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool bomber"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sticking plaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Emotionless"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1547.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

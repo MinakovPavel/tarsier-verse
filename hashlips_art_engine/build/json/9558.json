@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9558",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9558.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9558,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped sleeveless violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Narrowed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Braid blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughter"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9558.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

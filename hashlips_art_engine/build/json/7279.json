@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7279",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7279.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7279,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Surfboard"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Evening orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sticking plaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curls grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips pink"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7279.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

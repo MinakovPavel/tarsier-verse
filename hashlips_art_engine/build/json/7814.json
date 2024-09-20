@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7814",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7814.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7814,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Spear"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Army token"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowler"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dissatisfied"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7814.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

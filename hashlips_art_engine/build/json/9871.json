@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9871",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9871.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Mistrust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Huge"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Panto"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket hat red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kiss"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9871.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

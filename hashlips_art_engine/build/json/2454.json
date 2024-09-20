@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #2454",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2454.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2454,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Hockey stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie light blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nice"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2454.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

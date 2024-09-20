@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3541",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3541.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3541,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Candy cane"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Triangle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3541.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

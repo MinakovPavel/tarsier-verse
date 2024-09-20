@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #1173",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "1173.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 1173,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fur coat brown"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Upset"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball cap orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1173.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

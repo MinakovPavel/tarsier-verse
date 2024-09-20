@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7859",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7859.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Scythe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket grey"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curls grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7859.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

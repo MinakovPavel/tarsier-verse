@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #1764",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "1764.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 1764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Undershirt"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black eye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1764.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

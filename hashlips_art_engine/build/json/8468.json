@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #8468",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8468.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8468,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fur coat zebra"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Emotionless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball cap violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8468.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

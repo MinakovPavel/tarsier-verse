@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3727",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3727.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Candy cane"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Robe cream"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Undercut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3727.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

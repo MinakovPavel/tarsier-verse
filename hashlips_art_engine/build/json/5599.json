@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #5599",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5599.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fur coat brown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resentment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drak rainbow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugly"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5599.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

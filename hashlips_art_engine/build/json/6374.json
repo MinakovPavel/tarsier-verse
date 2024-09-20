@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6374",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6374.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Corset red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black eye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6374.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

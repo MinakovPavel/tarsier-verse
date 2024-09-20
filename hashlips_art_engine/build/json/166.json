@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #166",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "166.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie violet"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sticking plaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Triangle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "166.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

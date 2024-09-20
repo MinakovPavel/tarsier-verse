@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9767",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9767.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Hockey stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo shirt orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring heart"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kiss"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9767.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

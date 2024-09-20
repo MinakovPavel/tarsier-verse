@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3992",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3992.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3992,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fur coat zebra"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Disappointed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lolita ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cool"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3992.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

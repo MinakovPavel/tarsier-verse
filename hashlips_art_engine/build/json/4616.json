@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4616",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4616.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4616,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt brown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resentment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Combed blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugly"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4616.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

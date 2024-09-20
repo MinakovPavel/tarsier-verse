@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7922",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7922.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Coat brown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Logo"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilotka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Funny"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7922.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

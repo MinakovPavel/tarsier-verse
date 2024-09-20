@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #2403",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2403.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Pitchfork"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Long sleeve green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Huge"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips violet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2403.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4206",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4206.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Coat blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Upset"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Multicolored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Santa Klaus"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4206.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6962",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6962.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Surfboard"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dalmatian"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Twotone yellow"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring heart"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Buns red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6962.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

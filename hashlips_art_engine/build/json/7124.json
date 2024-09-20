@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7124",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7124.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7124,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt cats"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Brilliant catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Knit cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chews"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7124.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

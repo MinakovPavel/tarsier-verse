@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6459",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6459.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6459,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sharp flower"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cap blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughter"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6459.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

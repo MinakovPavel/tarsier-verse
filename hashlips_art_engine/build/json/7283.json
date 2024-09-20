@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7283",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7283.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ice axes"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool bomber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Doctor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Triangle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7283.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

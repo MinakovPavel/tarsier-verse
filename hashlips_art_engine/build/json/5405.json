@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #5405",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5405.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5405,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring heart"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Funny"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5405.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #2419",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2419.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Pitchfork"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Long sleeve yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ear flaps violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Filthy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2419.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

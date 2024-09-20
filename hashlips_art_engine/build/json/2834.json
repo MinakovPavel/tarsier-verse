@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #2834",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2834.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Pitchfork"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater red"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Mistrust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X O"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sidecut blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unpleasant"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2834.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

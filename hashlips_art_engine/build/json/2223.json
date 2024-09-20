@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #2223",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2223.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Spear"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheath violet"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Cunning"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X O"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lolita red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nice"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2223.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

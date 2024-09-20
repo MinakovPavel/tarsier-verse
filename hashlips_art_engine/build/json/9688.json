@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9688",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9688.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9688,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo shirt orange"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Narrowed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lolita ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bitten lip"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9688.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

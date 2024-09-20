@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4018",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4018.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4018,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Aloha shirt"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "X O"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headband brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips pink"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4018.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

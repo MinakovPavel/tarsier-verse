@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6318",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6318.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Candy cane"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Long sleeve green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver eardrop"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6318.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

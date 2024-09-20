@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9042",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9042.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9042,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suit blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drak rainbow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cool"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9042.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

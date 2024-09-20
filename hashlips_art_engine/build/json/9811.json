@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9811",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9811.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Candy cane"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Checkered shirt violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Embarrassment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green dollar"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chews"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9811.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9874",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9874.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Staff"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie light green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drak rainbow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Buns black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9874.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

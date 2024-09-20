@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4882",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4882.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4882,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sun green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Brilliant catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sticking plaster"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flipped cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugh"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4882.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

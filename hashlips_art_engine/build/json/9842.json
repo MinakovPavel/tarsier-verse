@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9842",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9842.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9842,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon green"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Spear"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized tshirt white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Floret"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short pigtails ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9842.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

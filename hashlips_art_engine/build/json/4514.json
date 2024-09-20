@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4514",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4514.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ear flaps brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4514.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

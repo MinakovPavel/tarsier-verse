@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6139",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6139.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Candy cane"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Undercut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6139.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

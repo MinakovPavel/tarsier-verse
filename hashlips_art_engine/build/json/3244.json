@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3244",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3244.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat cricket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Down jacket violet"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Upset"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flipped cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3244.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #8949",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8949.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8949,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Katana"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Panto"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blunt pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8949.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

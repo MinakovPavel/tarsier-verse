@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9345",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9345.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Dalmatian"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Armor"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resentment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9345.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

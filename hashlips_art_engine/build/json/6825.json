@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6825",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6825.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Hockey stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Checkered shirt blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver rings"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Emotionless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blunt cream"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sealed"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6825.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

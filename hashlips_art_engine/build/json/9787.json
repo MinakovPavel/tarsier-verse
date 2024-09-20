@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9787",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9787.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9787,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Pitchfork"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Undershirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide eyed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beret red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chews"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9787.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

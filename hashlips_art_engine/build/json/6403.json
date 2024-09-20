@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6403",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6403.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Staff"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized tshirt brown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold cross"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Cunning"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket hat orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6403.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

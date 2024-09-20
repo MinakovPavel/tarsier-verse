@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7965",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7965.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt cats"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lolita ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7965.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

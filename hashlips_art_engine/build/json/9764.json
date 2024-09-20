@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9764",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9764.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Emotionless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Matches"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl cut red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nice"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9764.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

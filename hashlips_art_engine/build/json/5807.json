@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #5807",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5807.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized tshirt yellow"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Very bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blunt pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5807.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7953",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7953.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Scythe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vest pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Uncertain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Combed blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7953.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

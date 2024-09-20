@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #96",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "96.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 96,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sun green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Steam"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "96.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

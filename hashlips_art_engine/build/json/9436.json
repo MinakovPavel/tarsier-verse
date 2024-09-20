@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9436",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9436.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9436,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Strapless dress"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sharp flower"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Cunning"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball cap black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9436.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

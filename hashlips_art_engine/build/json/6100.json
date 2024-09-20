@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6100",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6100.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6100,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Broom"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Overalls blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Punctuation marks"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short pigtails blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughter"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6100.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

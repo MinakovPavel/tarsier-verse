@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6354",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6354.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6354,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Scythe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped sleeveless blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Emotionless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flipped cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips violet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6354.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

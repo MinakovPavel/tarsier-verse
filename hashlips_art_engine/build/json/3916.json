@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3916",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3916.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ice axes"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resentment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Disappointed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sealed"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3916.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

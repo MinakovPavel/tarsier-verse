@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #5412",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5412.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5412,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Brilliant catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Insane violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chews"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5412.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

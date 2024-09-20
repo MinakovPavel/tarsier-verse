@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9067",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9067.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9067,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tattoo 2"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bamboo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips violet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9067.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

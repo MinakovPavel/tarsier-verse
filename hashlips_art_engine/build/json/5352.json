@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #5352",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5352.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5352,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheath violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Cunning"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kiss"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5352.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

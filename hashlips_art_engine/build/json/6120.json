@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6120",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6120.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo shirt green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Multicolored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Emotionless"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6120.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

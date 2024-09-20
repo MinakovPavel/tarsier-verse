@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6122",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6122.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6122,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized tshirt yellow"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Army token"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Cunning"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mess"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6122.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

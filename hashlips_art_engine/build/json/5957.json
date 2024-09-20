@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #5957",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5957.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5957,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Spear"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vest black"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "4 earrings"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green dollar"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bang"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5957.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

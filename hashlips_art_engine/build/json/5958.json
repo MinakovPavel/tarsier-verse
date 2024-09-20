@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #5958",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5958.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Racquet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized tshirt brown"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Punctuation marks"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Santa Klaus"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5958.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

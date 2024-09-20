@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #1232",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "1232.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 1232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Evening blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black eye"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bone afro"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1232.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

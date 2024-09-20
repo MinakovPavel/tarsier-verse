@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9496",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9496.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vest pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring heart"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Logo"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hairpins violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9496.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

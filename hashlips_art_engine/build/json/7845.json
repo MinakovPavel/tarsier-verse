@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7845",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7845.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bamboo stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Armor"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beret red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugh"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7845.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

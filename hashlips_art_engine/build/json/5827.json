@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #5827",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5827.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Spear"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Robe cream"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Beads"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beret black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kiss"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5827.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

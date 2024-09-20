@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9988",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9988.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Pitchfork"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber black "
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Brilliant catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Steam"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Funny"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9988.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

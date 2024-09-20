@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7322",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7322.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7322,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ice axes"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie light green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver rings"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Braid blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bitten lip"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7322.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

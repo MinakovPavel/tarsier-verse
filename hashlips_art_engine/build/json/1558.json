@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #1558",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "1558.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 1558,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie amethyst"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Embarrassment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hairpins violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips violet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1558.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

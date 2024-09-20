@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7976",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7976.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7976,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Army token"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hairpins violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugly"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7976.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

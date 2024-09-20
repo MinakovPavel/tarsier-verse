@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #8642",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8642.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8642,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Map"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Evening orange"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink gray"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Steam"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8642.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

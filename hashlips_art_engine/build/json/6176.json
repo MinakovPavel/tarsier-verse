@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6176",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6176.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6176,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suit grey"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Buns black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wicked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6176.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

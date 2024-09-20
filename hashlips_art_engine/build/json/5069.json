@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #5069",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5069.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheath pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring star"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Multicolored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mess"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips pink"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5069.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #5488",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5488.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Squama"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Robe pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Matches"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Nice"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5488.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

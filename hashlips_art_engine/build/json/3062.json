@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3062",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3062.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie grey"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Combed blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Slight smile"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3062.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

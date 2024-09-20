@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9462",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9462.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9462,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wool bomber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Unibrow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pompon"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9462.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

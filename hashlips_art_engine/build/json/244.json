@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #244",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "244.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Embarrassment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Evil"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Short pigtails blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cool"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "244.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

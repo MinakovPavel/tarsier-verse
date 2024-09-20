@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #8004",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8004.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber black "
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket hat red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dissatisfied"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8004.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

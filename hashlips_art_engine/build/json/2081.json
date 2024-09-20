@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #2081",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2081.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2081,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jean jacket turquoise"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Mistrust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sidecut red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Triangle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2081.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

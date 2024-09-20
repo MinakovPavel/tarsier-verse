@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7745",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7745.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie yellow"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green dollar"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Emotionless"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7745.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #8052",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8052.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8052,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Fur coat brown"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide eyed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilotka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8052.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9068",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9068.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Striped sleeveless blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold necklace"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Emotionless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black eye"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blindfold"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9068.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

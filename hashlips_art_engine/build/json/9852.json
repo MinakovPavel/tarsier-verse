@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9852",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9852.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Ice axes"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Evening blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide eyed"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cyber tarsier"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headband brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9852.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

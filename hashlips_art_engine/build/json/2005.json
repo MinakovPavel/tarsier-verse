@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #2005",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "2005.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 2005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized tshirt white"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Stun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips pink"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2005.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

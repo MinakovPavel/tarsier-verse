@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7727",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7727.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Vest black"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver rings"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Mistrust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Multicolored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Construction helmet orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7727.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

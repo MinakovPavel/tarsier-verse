@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3623",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3623.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Racquet"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cyber armor"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Matches"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stitched"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3623.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

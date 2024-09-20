@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #296",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "296.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 296,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt blue"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball cap orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugh"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "296.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

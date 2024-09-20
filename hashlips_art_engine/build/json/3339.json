@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3339",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3339.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Neon green"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Tennis stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Undershirt"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Upset"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stubble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3339.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

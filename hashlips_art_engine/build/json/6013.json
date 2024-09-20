@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6013",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6013.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Scythe"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold cross"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Uncertain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Very bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lolita red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lips violet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6013.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

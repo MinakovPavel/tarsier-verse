@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7057",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7057.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Staff"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Squama"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Gold catkins"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide eyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilotka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chews"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7057.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

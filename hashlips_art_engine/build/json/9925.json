@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9925",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9925.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Staff"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Robe cream"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earrings"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Embarrassment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Logo"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Panto"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Anime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9925.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

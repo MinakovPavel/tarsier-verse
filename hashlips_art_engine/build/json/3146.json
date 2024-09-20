@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3146",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3146.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Palm"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Squama"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt grey"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Emotionless"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl cut red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Slight smile"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3146.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

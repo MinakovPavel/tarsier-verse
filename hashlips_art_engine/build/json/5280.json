@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #5280",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "5280.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 5280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie light green"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring heart"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Very bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Steam"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bitten lip"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5280.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7676",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7676.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Surfboard"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Checkered shirt red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver catkin"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Mistrust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Combed black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7676.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #7880",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "7880.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 7880,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Guitar"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumper black"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Floret"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resentment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Disappointed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curly white"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ugly"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7880.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

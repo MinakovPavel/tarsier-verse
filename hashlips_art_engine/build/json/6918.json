@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6918",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6918.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Tennis stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Oversized tshirt white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Punctuation marks"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazy"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Curls purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughter"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6918.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

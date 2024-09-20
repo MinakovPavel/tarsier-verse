@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6787",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6787.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6787,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Bat cricket"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Narrowed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Construction helmet blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6787.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

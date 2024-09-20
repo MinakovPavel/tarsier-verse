@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9154",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9154.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9154,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie green blue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Army token"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Wide"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green dollar"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mess"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9154.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

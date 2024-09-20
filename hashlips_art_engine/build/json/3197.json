@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #3197",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "3197.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 3197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Hockey stick"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tears"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ear flaps violet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughter"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3197.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

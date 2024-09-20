@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #6248",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "6248.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 6248,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt pink"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Floret"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dragonfly"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Slight smile"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6248.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

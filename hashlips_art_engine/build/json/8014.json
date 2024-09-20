@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #8014",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8014.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8014,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Marsala"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie yellow"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black eye"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilotka"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8014.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

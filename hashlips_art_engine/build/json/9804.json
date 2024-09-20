@@ -1,0 +1,66 @@
+{
+  "name": "Tarsier #9804",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9804.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9804,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Net"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Aloha shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver eardrop"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resolve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink gray"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sidecut blonde"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9804.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

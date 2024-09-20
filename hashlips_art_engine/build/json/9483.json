@@ -1,0 +1,62 @@
+{
+  "name": "Tarsier #9483",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "9483.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 9483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirt cats"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Insidious"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bowl cut aqua"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9483.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

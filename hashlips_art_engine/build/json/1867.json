@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #1867",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "1867.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 1867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sheath pink"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Knit cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kiss"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1867.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

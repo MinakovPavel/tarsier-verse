@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #1240",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "1240.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 1240,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless grey"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Sharp"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Emotionless"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1240.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

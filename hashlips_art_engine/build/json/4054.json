@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #4054",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "4054.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 4054,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie amethyst"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Upset"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Narrowed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ear flaps brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bitten lip"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4054.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

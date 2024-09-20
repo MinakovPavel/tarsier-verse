@@ -1,0 +1,54 @@
+{
+  "name": "Tarsier #607",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "607.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sleeveless grey"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Resentment"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue gray"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Braid black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shocked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "607.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}

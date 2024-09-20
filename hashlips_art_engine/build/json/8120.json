@@ -1,0 +1,58 @@
+{
+  "name": "Tarsier #8120",
+  "symbol": "TV",
+  "description": "by tarsierverse.com",
+  "seller_fee_basis_points": 1000,
+  "image": "8120.png",
+  "external_url": "https://www.tarsierverse.com",
+  "edition": 8120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink orange"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber green"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Determination"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sai fi"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Lolita ginger"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stitched"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8120.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "93AeXfXG9z6ia6z6QoRQkLymUrGhRdUp5aE2VUzi3zrj",
+        "share": 100
+      }
+    ]
+  }
+}
